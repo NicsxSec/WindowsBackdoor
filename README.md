@@ -10,12 +10,15 @@
 </p>
 
 
+## DISCLAIMER
+
+This Backdoor is for educational purposes only!!!!
 
 
 
 ## Features
 
-Here are a few of the features of this Backdoor...
+Here are a few of the features of this backdoor...
  
 Features:
 * This backdoor is lightweight
