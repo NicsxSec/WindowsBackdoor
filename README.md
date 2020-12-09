@@ -2,7 +2,7 @@
 ---------------------------------------------------------------
 
 ## Description
-C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES)
+C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES)\n
 Connects to an Ftp Server via Win32 api and does it's thing...
 
 
