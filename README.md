@@ -12,8 +12,8 @@
 
 ## DISCLAIMER
 
-This Backdoor is for educational purposes only!!!!
-<br>
+This backdoor is for educational purposes only!!!! <br /> If you do any illegal acitvities with it i'm not responsible for it
+<br />
 
 
 ## Features
