@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">C++ Spyware</h3>
+  <h3 align="center">C++ Backdoor</h3>
 
   <p align="center">
     A Spyware/Backdoor written in C++ via Win32 API
