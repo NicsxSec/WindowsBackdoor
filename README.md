@@ -24,6 +24,10 @@ Features:
 * This backdoor is lightweight
 * It is fast
 * It can connect to any Ftp Server
+* Take screenshots
+* Upload files to target machine
+* Download files
+* Execute any files on target system
 
 
 
